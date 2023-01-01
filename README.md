@@ -42,9 +42,10 @@ it contains all test cases for the system apis.
  
  
  -in (admin_service_discount) service parameter can be : (Mobile,Internet,Landline,Donations)
+
  -in (Accept refund) order_placement means the positioning of order in show refund requests
- -in (Mobile_service) provider value can be:(Etisalat,Vodafone,WE,Orange) , number parameter refers to phone number 
-					  payment method can be:(wallet,cash,credit).
+
+ -in (Mobile_service) provider value can be:(Etisalat,Vodafone,WE,Orange) , number parameter refers to phone number payment method can be:(wallet,cash,credit).
 					  
  -in (Donation_service) provider can be: (Schools,NGO,Cancer).
 
