@@ -47,6 +47,8 @@ it contains all test cases for the system apis.
 					  payment method can be:(wallet,cash,credit).
 					  
  -in (Donation_service) provider can be: (Schools,NGO,Cancer).
+
  -in (Landline_service) Payment type can be: (quarter,monthly).
+
  -in (Request refund)	order id means the id of the order that you want to make a refund request on.
  
